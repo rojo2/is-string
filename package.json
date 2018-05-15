@@ -1,6 +1,6 @@
 {
   "name": "@rojo2/is-string",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Returns if a value is a string",
   "main": "dist/is-string.cjs.js",
   "module": "dist/is-string.esm.js",
